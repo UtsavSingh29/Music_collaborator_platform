@@ -1,3 +1,3 @@
-# music_collaborator_platform
+# Music_collaborator_platform
 A platform developed to collaborate music industry people and find people for there projects...
 ![Site_Image.png](WEBSITE LOOK)
