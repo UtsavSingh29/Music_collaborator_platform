@@ -1,0 +1,3 @@
+# music_collaborator_platform
+A platform developed to collaborate music industry people and find people for there projects...
+![Uploading Screenshot from 2024-09-26 23-37-35.png…]()
